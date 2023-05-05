@@ -1,0 +1,5 @@
+class suma 
+public static void main 
+c
+c= a+b
+system.out.println " la suma es +c"
